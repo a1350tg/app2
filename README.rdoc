@@ -1,3 +1,4 @@
+さらにこんにちは
 こんにちは
 == Welcome to Rails
 
